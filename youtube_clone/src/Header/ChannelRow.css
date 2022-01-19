@@ -1,0 +1,11 @@
+.channelRow{
+    display: flex;
+    align-items:center;
+    width:70%;
+}
+
+.channelRow__logo{
+    height:150px  !important; 
+    width: 150px  !important;
+    margin: 10px 30px !important;
+}
