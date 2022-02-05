@@ -21,7 +21,7 @@ function RecommendedVideos() {
                         </div>)
                 }
             </div>
-            </div>
+        </div>
     )
 }
 
